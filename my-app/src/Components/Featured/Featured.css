@@ -20,13 +20,128 @@
     background-color: white;
     border-radius: 15px;
     gap: 1rem;
-    margin-bottom: 15%;
-    text-align: center;
-    padding: 3%;
-    
+    padding: 1%;
 }
 
-.img1, .img2 {
-    height: 3vmin;
-    
+.featuredDown {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 2%;
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+
+.featuredDownRight{
+    width: 50%;
+    padding: 3%;
+}
+
+.imgDescription{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.imgDescTitle{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.imgContainer {
+    display: flex;
+    align-items: center;
+}
+
+.img1, .img6{
+    height: 4vmin;    
+}
+.img2 {
+    height: 7vmin;
+}
+
+.img7 {
+   height: 47vmin;
+   object-fit: cover;
+   display: block;
+   border-bottom-left-radius: 15px;
+}
+.discountBtn{
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: flex-start;
+}
+.discountJeansBtn {
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(90, 189, 90);
+    border: none;
+    width: 45%;
+    font-size: 1rem;
+    padding: 2%;
+  }
+
+
+@media(max-width: 960px){
+
+    .featuredTitle {
+       padding: 15% 0 5% 0;
+       margin: 0;
+    }
+
+    .featuredUpper{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 3%;
+        gap: 3em;
+        border-radius: 0px;
+    }
+
+    .discountBtn{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .discountJeansBtn{
+        width: 100%;
+        margin-top: 15%;
+        padding: 4%;
+    }
+
+    .img7 {
+        width: 100%;
+     }
+
+    .featuredDown{
+        width: 90%;
+    }
+
+    .featuredDownRight {
+        padding: 15%;
+    }
+
+    .imgDescription{
+        flex-direction: column;
+        text-align: start;
+    }
+
+    .featuredDown{
+        flex-direction: column;
+    }
+
+    .featuredDownRight {
+        width: 100%;
+    }
+
+    .img6 {
+        height: 7vmin;
+    }
+   
 }

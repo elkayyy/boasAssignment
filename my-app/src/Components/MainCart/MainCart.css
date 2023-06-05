@@ -15,7 +15,7 @@
     background-color: rgba(58, 58, 58, 0.5);
     background-size: cover;
     background-position: center;
-    padding-bottom: 5%;
+    padding-bottom: 1%;
   }
   
   .mainCartInnerContent {
@@ -73,10 +73,25 @@
     h1 {
         font-size: 2rem;
       }
+
+    .mainCart{
+      background-color: #e9cdb0;
+    }
+
+    .mainCartItem{
+      width: 100%;
+      background-color: black;
+      padding: 3%;
+      margin: 0;
+    }
     .mainCartInnerContent {
       display: flex;
       flex-direction: column;
       padding: 5%;
+    }
+
+    .mainCartInner {
+      margin-top: 10%;
     }
   
     .mainCartInnerItem1,
