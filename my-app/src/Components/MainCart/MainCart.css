@@ -1,0 +1,116 @@
+.mainCart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    margin-top: 2%;
+  }
+  
+  .mainCartInner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-image: url('../../Assets/clothesBg.webp'); 
+    background-color: rgba(58, 58, 58, 0.5);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 5%;
+  }
+  
+  .mainCartInnerContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    padding: 3%;
+  }
+  
+  .mainCartItem {
+    color: white;
+    margin: 0.5% 0% 0.5% 0%; 
+    text-align: center;
+    font-size: 0.7em;
+  }
+  
+  .mainCartInnerItem1,
+  .mainCartInnerItem2 {
+    color: white;
+    text-align: center;
+  }
+  
+  .mainCartInnerItem3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-top: 3%;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
+  .shopNow {
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(90, 189, 90);
+    border: none;
+    width: 15%;
+  }
+  
+  .aboutOurMission {
+    color: rgb(82, 131, 82);
+    background-color: white;
+    border-radius: 50px;
+    border: none;
+    width: 25%;
+    height: 5vmin;
+  }
+  
+  @media (max-width: 900px) {
+
+    h1 {
+        font-size: 2rem;
+      }
+    .mainCartInnerContent {
+      display: flex;
+      flex-direction: column;
+      padding: 5%;
+    }
+  
+    .mainCartInnerItem1,
+    .mainCartInnerItem2,
+    .mainCartInnerItem3 {
+      width: 100%;
+    }
+  
+    .mainCartInnerItem3 {
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5em;
+    }
+  
+    .shopNow {
+      width: 25%;
+      height: 5vmin;
+    }
+  
+    .aboutOurMission {
+      width: 50%;
+      height: 5vmin;
+    }
+  
+    @media (max-width: 500px) {
+      .shopNow {
+        width: 50%;
+        height: 10vmin;
+      }
+  
+      .aboutOurMission {
+        width: 70%;
+        height: 10vmin;
+      }
+    }
+  }
+  

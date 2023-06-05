@@ -1,0 +1,32 @@
+.featuredMain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e9cdb0;;
+    text-align: center;
+}
+
+.featuredTitle {
+    font-size: 2rem;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.featuredUpper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+    background-color: white;
+    border-radius: 15px;
+    gap: 1rem;
+    margin-bottom: 15%;
+    text-align: center;
+    padding: 3%;
+    
+}
+
+.img1, .img2 {
+    height: 3vmin;
+    
+}
