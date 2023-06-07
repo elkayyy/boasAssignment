@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/boasAssignment/static/css/main.8d003b7a.css",
-    "main.js": "/boasAssignment/static/js/main.0d881383.js",
+    "main.css": "/boasAssignment/static/css/main.d1195df8.css",
+    "main.js": "/boasAssignment/static/js/main.83ce35ec.js",
     "static/media/cart1Reversed.webp": "/boasAssignment/static/media/cart1Reversed.4cfac9a1cfdbac6cbb5c.webp",
     "static/media/cart2.webp": "/boasAssignment/static/media/cart2.f4fe8132d561e792b03b.webp",
     "static/media/feature7.webp": "/boasAssignment/static/media/feature7.c188f272e21ce460b3b4.webp",
@@ -17,6 +17,7 @@
     "static/media/greenPic1.webp": "/boasAssignment/static/media/greenPic1.65ec3fb548a789574a0e.webp",
     "static/media/feature6.webp": "/boasAssignment/static/media/feature6.123b870f4bd01f4ea0e7.webp",
     "static/media/clothesBg.webp": "/boasAssignment/static/media/clothesBg.afaee41c507308416137.webp",
+    "static/media/profits.webp": "/boasAssignment/static/media/profits.ae478af86931e1e8ae89.webp",
     "static/media/boasLogo.webp": "/boasAssignment/static/media/boasLogo.601214671e167e44915e.webp",
     "static/media/feature4.webp": "/boasAssignment/static/media/feature4.f3780f1fa6977fd6f5b9.webp",
     "static/media/feature2.webp": "/boasAssignment/static/media/feature2.8f73a4bea2e9126e55f5.webp",
@@ -26,12 +27,14 @@
     "static/media/brand.svg": "/boasAssignment/static/media/brand.4cdeab2be2304ddebfe33b83b7058f97.svg",
     "static/media/feature5.avif": "/boasAssignment/static/media/feature5.4d842decb0af98493824.avif",
     "static/media/feature1.webp": "/boasAssignment/static/media/feature1.2abd2be1bc1d08398f4f.webp",
+    "static/media/amazon.webp": "/boasAssignment/static/media/amazon.56d619c5498fe194b96b.webp",
+    "static/media/shoppay.avif": "/boasAssignment/static/media/shoppay.46eea8f54d065ec0388a.avif",
     "index.html": "/boasAssignment/index.html",
-    "main.8d003b7a.css.map": "/boasAssignment/static/css/main.8d003b7a.css.map",
-    "main.0d881383.js.map": "/boasAssignment/static/js/main.0d881383.js.map"
+    "main.d1195df8.css.map": "/boasAssignment/static/css/main.d1195df8.css.map",
+    "main.83ce35ec.js.map": "/boasAssignment/static/js/main.83ce35ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d003b7a.css",
-    "static/js/main.0d881383.js"
+    "static/css/main.d1195df8.css",
+    "static/js/main.83ce35ec.js"
   ]
 }
