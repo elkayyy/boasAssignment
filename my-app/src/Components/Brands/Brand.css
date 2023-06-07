@@ -1,0 +1,49 @@
+.brandsMain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e9cdb0;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.brandsInner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 80%;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 1%;
+    padding: 5%;
+}
+
+.brandItems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 5em;
+}
+
+.logoBoas{
+    height: 12vmin;
+}
+
+@media(max-width:900px){
+    .brandsInner{
+        border-radius: 0;
+        width: 100%;
+    }
+
+    .brandItems{
+        padding: 10%;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .logoBoas{
+        height: 26vmin;
+    }
+}

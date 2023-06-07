@@ -1,0 +1,119 @@
+.footerMain{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(29, 29, 29);
+}
+
+.footerUpper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    font-size: 0.9rem;
+}
+
+.footerDown{
+    padding-top: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 2em;
+}
+
+.footerUpperContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 90%;
+    gap: 5em;
+}
+
+.footerUpperLeft{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1em;
+    margin-top: 3%;
+    flex: 1;
+}
+
+.footerUpperMiddle{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1em;
+    margin-top: 3%;
+    flex: 1;
+}
+
+.footerUpperRight{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1em;
+    margin-top: 3%;
+    flex: 1;
+}
+.footerLogo{
+    height: 9vmin;
+}
+
+.media{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+
+.footerUpperRightInputBtn{
+    display: flex;
+    justify-content: row;
+    gap: 1em;
+}
+
+.subscribeBtn {
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(90, 189, 90);
+    border: none;
+    width: 100%;
+    height: 4vmin;
+}
+
+.paymentMethods{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.footerLogos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footLogo{
+    height: 5vmin;
+}
+
+.footLogo1{
+    height: 12vmin;
+}
+
+@media(max-width: 900px){
+
+    .footerUpperContainer{
+        flex-direction: column;
+   
+    }
+
+    .paymentMethods{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

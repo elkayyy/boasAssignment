@@ -1,0 +1,74 @@
+.newsLetterMain {
+    display: flex;
+    justify-content: center;
+    background-color: #e9cdb0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.newsLetterInner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.newsLetterInnerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3%;
+    gap: 2em;
+}
+.inputSignUp{
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    gap: 2em;
+    margin-top: 3%;
+
+}
+.underLineInput{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    width: 100%;
+}
+
+.signUp {
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(90, 189, 90);
+    border: none;
+    width: 30%;
+    height: 4vmin;
+}
+
+
+@media(max-width:900px){
+    .newsLetterInner{
+        text-align: center;
+        padding: 1%;
+        width: 100%;
+        border-radius: 0px;
+        margin-top: 15%;
+    }
+
+    .newsLetterInnerContainer{
+        padding: 5%;
+    }
+    .inputSignUp{
+        flex-direction: column;
+        align-items: center;
+    }
+    .inputSignUp , .signUp{
+        width: 60%;
+        
+    }
+
+    .signUp {
+        height: 8vmin;
+    }
+}

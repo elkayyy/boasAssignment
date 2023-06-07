@@ -1,0 +1,104 @@
+.boasBlogMain {
+    display: flex;
+    justify-content: center;
+    background-color: #e9cdb0;
+    padding-top: 5%;
+}
+
+.boasBlogInner {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 80%;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 1%;
+    gap: 5em;
+}
+
+.boasBlogPhoto {
+    width: 60%;
+   
+}
+
+.boasBlogImg {
+    height: 56vmin;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+ 
+}
+
+.boasBlogText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.boasText {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 3%;
+    gap: 2em;
+}
+
+.boasBlogBtns {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.readMoreBtn {
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(90, 189, 90);
+    border: none;
+    width: 25%;
+}
+
+.seeAllArticlesBtn {
+    border: 0.1px solid rgb(82, 131, 82);
+    color: rgb(82, 131, 82);
+    background-color: white;
+    border-radius: 50px;
+    width: 25%;
+    height: 5vmin;
+}
+
+@media(max-width:900px) {
+    .boasBlogInner {
+        flex-direction: column;
+        width: 80%;
+    }
+
+    .boasBlogPhoto{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+    }
+
+    .boasBlogImg {
+        width: auto;
+        border-radius: 15px;
+        padding: 3%;
+    }
+
+    .boasBlogText{
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .boasText{
+        gap: 4em;
+    }
+    
+    
+    .boasBlogBtns button{
+        width: 50%;
+        height: 7vmin;
+        justify-content: space-evenly;
+    }
+}
