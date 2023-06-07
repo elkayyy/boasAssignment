@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/boasAssignment/static/css/main.01f15a3b.css",
-    "main.js": "/boasAssignment/static/js/main.bc763b19.js",
+    "main.css": "/boasAssignment/static/css/main.8d003b7a.css",
+    "main.js": "/boasAssignment/static/js/main.0d881383.js",
     "static/media/cart1Reversed.webp": "/boasAssignment/static/media/cart1Reversed.4cfac9a1cfdbac6cbb5c.webp",
     "static/media/cart2.webp": "/boasAssignment/static/media/cart2.f4fe8132d561e792b03b.webp",
     "static/media/feature7.webp": "/boasAssignment/static/media/feature7.c188f272e21ce460b3b4.webp",
@@ -27,11 +27,11 @@
     "static/media/feature5.avif": "/boasAssignment/static/media/feature5.4d842decb0af98493824.avif",
     "static/media/feature1.webp": "/boasAssignment/static/media/feature1.2abd2be1bc1d08398f4f.webp",
     "index.html": "/boasAssignment/index.html",
-    "main.01f15a3b.css.map": "/boasAssignment/static/css/main.01f15a3b.css.map",
-    "main.bc763b19.js.map": "/boasAssignment/static/js/main.bc763b19.js.map"
+    "main.8d003b7a.css.map": "/boasAssignment/static/css/main.8d003b7a.css.map",
+    "main.0d881383.js.map": "/boasAssignment/static/js/main.0d881383.js.map"
   },
   "entrypoints": [
-    "static/css/main.01f15a3b.css",
-    "static/js/main.bc763b19.js"
+    "static/css/main.8d003b7a.css",
+    "static/js/main.0d881383.js"
   ]
 }
