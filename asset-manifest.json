@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/boasAssignment/static/css/main.a83952a9.css",
-    "main.js": "/boasAssignment/static/js/main.7d93511b.js",
+    "main.css": "/boasAssignment/static/css/main.cff45417.css",
+    "main.js": "/boasAssignment/static/js/main.5e7bdc8f.js",
     "static/media/cart1Reversed.webp": "/boasAssignment/static/media/cart1Reversed.4cfac9a1cfdbac6cbb5c.webp",
     "static/media/cart2.webp": "/boasAssignment/static/media/cart2.f4fe8132d561e792b03b.webp",
     "static/media/feature7.webp": "/boasAssignment/static/media/feature7.c188f272e21ce460b3b4.webp",
@@ -19,15 +19,18 @@
     "static/media/boasLogo.webp": "/boasAssignment/static/media/boasLogo.601214671e167e44915e.webp",
     "static/media/feature4.webp": "/boasAssignment/static/media/feature4.f3780f1fa6977fd6f5b9.webp",
     "static/media/feature2.webp": "/boasAssignment/static/media/feature2.8f73a4bea2e9126e55f5.webp",
+    "static/media/brand1.webp": "/boasAssignment/static/media/brand1.495135516315ed631b22.webp",
     "static/media/feature3.webp": "/boasAssignment/static/media/feature3.4cae3282d6a5be6e7344.webp",
+    "static/media/brand2.avif": "/boasAssignment/static/media/brand2.1bec9796200eba0f1cfa.avif",
+    "static/media/brand.svg": "/boasAssignment/static/media/brand.4cdeab2be2304ddebfe33b83b7058f97.svg",
     "static/media/feature5.avif": "/boasAssignment/static/media/feature5.4d842decb0af98493824.avif",
     "static/media/feature1.webp": "/boasAssignment/static/media/feature1.2abd2be1bc1d08398f4f.webp",
     "index.html": "/boasAssignment/index.html",
-    "main.a83952a9.css.map": "/boasAssignment/static/css/main.a83952a9.css.map",
-    "main.7d93511b.js.map": "/boasAssignment/static/js/main.7d93511b.js.map"
+    "main.cff45417.css.map": "/boasAssignment/static/css/main.cff45417.css.map",
+    "main.5e7bdc8f.js.map": "/boasAssignment/static/js/main.5e7bdc8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a83952a9.css",
-    "static/js/main.7d93511b.js"
+    "static/css/main.cff45417.css",
+    "static/js/main.5e7bdc8f.js"
   ]
 }
