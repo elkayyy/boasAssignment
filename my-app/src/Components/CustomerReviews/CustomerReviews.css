@@ -1,0 +1,68 @@
+.customerReviewsMain{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #e9cdb0;;
+   
+}
+
+.customerReviewsInner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3em;
+    width: 80%;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.customerReviewsTitle{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+}
+
+.customerReviewComments{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    gap: 2em;
+    width: 100%;
+}
+
+.customerReviewColumn, .customerReviewColumn1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    gap: 1em;
+    font-family: 'Poppins, sans-serif';
+    font-weight: 500;
+}
+
+@media(max-width: 960px){
+    .customerReviewsInner{
+ 
+        text-align: center;
+
+       width: 100%;
+       border-radius: 0px;
+       margin-top: 10%;
+    }
+
+    .customerReviewColumn1{
+        display: none;
+    }
+    .customerReviewColumn{
+        width: 100%;
+    }
+
+    .customerReviewComments{
+        padding: 8%;
+    }
+
+    .customerReviewsTitle{
+        padding: 1%;
+    }
+}
+

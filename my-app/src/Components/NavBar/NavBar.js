@@ -4,7 +4,7 @@ import logo from '../../Assets/boasLogo.webp'
 
 const NavBar = () => {
     return (
-        <div>
+     
 
             <div className='navBarMain'>
 
@@ -50,7 +50,7 @@ const NavBar = () => {
 
             </div>
 
-        </div>
+     
     )
 }
 
