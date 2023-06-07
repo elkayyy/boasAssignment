@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/boasAssignment/static/css/main.7b8f6d2d.css",
-    "main.js": "/boasAssignment/static/js/main.503d9554.js",
+    "main.css": "/boasAssignment/static/css/main.a83952a9.css",
+    "main.js": "/boasAssignment/static/js/main.7d93511b.js",
     "static/media/cart1Reversed.webp": "/boasAssignment/static/media/cart1Reversed.4cfac9a1cfdbac6cbb5c.webp",
+    "static/media/cart2.webp": "/boasAssignment/static/media/cart2.f4fe8132d561e792b03b.webp",
     "static/media/feature7.webp": "/boasAssignment/static/media/feature7.c188f272e21ce460b3b4.webp",
     "static/media/greenPic.webp": "/boasAssignment/static/media/greenPic.175da60ef99999bbff1f.webp",
     "static/media/greenPic2.webp": "/boasAssignment/static/media/greenPic2.250cd11a9bfc40e43535.webp",
@@ -10,6 +11,7 @@
     "static/media/pic1.webp": "/boasAssignment/static/media/pic1.7c5ce29a083d5987530b.webp",
     "static/media/pic4.webp": "/boasAssignment/static/media/pic4.6395bf2d9b30b908c1dc.webp",
     "static/media/greenPic3.webp": "/boasAssignment/static/media/greenPic3.1bc91c1e2fb6daf87039.webp",
+    "static/media/kids.webp": "/boasAssignment/static/media/kids.68ec0154f0af6d93db9a.webp",
     "static/media/pic2.webp": "/boasAssignment/static/media/pic2.fb7ffe2fb74a6899ace0.webp",
     "static/media/greenPic1.webp": "/boasAssignment/static/media/greenPic1.65ec3fb548a789574a0e.webp",
     "static/media/feature6.webp": "/boasAssignment/static/media/feature6.123b870f4bd01f4ea0e7.webp",
@@ -21,11 +23,11 @@
     "static/media/feature5.avif": "/boasAssignment/static/media/feature5.4d842decb0af98493824.avif",
     "static/media/feature1.webp": "/boasAssignment/static/media/feature1.2abd2be1bc1d08398f4f.webp",
     "index.html": "/boasAssignment/index.html",
-    "main.7b8f6d2d.css.map": "/boasAssignment/static/css/main.7b8f6d2d.css.map",
-    "main.503d9554.js.map": "/boasAssignment/static/js/main.503d9554.js.map"
+    "main.a83952a9.css.map": "/boasAssignment/static/css/main.a83952a9.css.map",
+    "main.7d93511b.js.map": "/boasAssignment/static/js/main.7d93511b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b8f6d2d.css",
-    "static/js/main.503d9554.js"
+    "static/css/main.a83952a9.css",
+    "static/js/main.7d93511b.js"
   ]
 }
