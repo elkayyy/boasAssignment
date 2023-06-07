@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/boasAssignment/static/css/main.cff45417.css",
-    "main.js": "/boasAssignment/static/js/main.5e7bdc8f.js",
+    "main.css": "/boasAssignment/static/css/main.01f15a3b.css",
+    "main.js": "/boasAssignment/static/js/main.bc763b19.js",
     "static/media/cart1Reversed.webp": "/boasAssignment/static/media/cart1Reversed.4cfac9a1cfdbac6cbb5c.webp",
     "static/media/cart2.webp": "/boasAssignment/static/media/cart2.f4fe8132d561e792b03b.webp",
     "static/media/feature7.webp": "/boasAssignment/static/media/feature7.c188f272e21ce460b3b4.webp",
     "static/media/greenPic.webp": "/boasAssignment/static/media/greenPic.175da60ef99999bbff1f.webp",
+    "static/media/slider.webp": "/boasAssignment/static/media/slider.8e5d0a99c163dbacf514.webp",
     "static/media/greenPic2.webp": "/boasAssignment/static/media/greenPic2.250cd11a9bfc40e43535.webp",
     "static/media/pic3.webp": "/boasAssignment/static/media/pic3.1ceb1441c794b22f6617.webp",
     "static/media/pic1.webp": "/boasAssignment/static/media/pic1.7c5ce29a083d5987530b.webp",
@@ -26,11 +27,11 @@
     "static/media/feature5.avif": "/boasAssignment/static/media/feature5.4d842decb0af98493824.avif",
     "static/media/feature1.webp": "/boasAssignment/static/media/feature1.2abd2be1bc1d08398f4f.webp",
     "index.html": "/boasAssignment/index.html",
-    "main.cff45417.css.map": "/boasAssignment/static/css/main.cff45417.css.map",
-    "main.5e7bdc8f.js.map": "/boasAssignment/static/js/main.5e7bdc8f.js.map"
+    "main.01f15a3b.css.map": "/boasAssignment/static/css/main.01f15a3b.css.map",
+    "main.bc763b19.js.map": "/boasAssignment/static/js/main.bc763b19.js.map"
   },
   "entrypoints": [
-    "static/css/main.cff45417.css",
-    "static/js/main.5e7bdc8f.js"
+    "static/css/main.01f15a3b.css",
+    "static/js/main.bc763b19.js"
   ]
 }
