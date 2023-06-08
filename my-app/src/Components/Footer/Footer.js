@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import logoBoas from '../../Assets/boasLogo.webp'
+import logoBoas from '../../Assets/Brands/boasLogo.webp'
 import iDeal from '../../Assets/PaymentPhotos/iDeal.png'
 import amazon from '../../Assets/PaymentPhotos/amazon.webp'
 import payPal from '../../Assets/PaymentPhotos/paypal.png'

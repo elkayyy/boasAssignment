@@ -61,6 +61,10 @@
     padding: 2%;
 }
 
+.cart1Button:hover{
+    transform: scale(1.01);
+}
+
 
 
 @media(max-width: 980px) {

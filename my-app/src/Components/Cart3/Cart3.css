@@ -24,7 +24,7 @@
     border-radius: 25px;
     height: 28vmin;
     width: 100%;
-    background-image: url('../../Assets/kids.webp');
+    background-image: url('../../Assets/Featured/kids.webp');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -48,6 +48,10 @@
     font-size: 1rem;
     padding: 2%;
   }
+
+.cartItem3Btn:hover{
+    transform: scale(1.03);
+}
 
 @media(max-width:900px){
     .cart3Item{

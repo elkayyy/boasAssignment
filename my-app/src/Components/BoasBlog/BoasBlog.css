@@ -17,17 +17,17 @@
 }
 
 .boasBlogPhoto {
-    width: 60%;
-   
-}
-
-.boasBlogImg {
+    width: 50%;
     height: 56vmin;
-    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
- 
+
+
 }
+
 
 .boasBlogText {
     display: flex;
@@ -55,6 +55,11 @@
     background-color: rgb(90, 189, 90);
     border: none;
     width: 25%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.readMoreBtn:hover{
+    transform: scale(1.1);
 }
 
 .seeAllArticlesBtn {
@@ -64,6 +69,11 @@
     border-radius: 50px;
     width: 25%;
     height: 5vmin;
+    transition: transform 0.3s ease-in-out;
+}
+
+.seeAllArticlesBtn:hover{
+    transform: scale(1.1);
 }
 
 @media(max-width:900px) {
@@ -71,32 +81,24 @@
         flex-direction: column;
         width: 80%;
     }
-
     .boasBlogPhoto{
-        display: flex;
-        justify-content: center;
         width: 100%;
-
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
     }
 
-    .boasBlogImg {
-        width: auto;
-        border-radius: 15px;
-        padding: 3%;
-    }
-
-    .boasBlogText{
+    .boasBlogText {
         display: flex;
         align-items: center;
         text-align: center;
     }
 
-    .boasText{
+    .boasText {
         gap: 4em;
     }
-    
-    
-    .boasBlogBtns button{
+
+
+    .boasBlogBtns button {
         width: 50%;
         height: 7vmin;
         justify-content: space-evenly;

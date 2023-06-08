@@ -1,9 +1,9 @@
 import React from 'react'
 import './Brand.css'
-import levis from '../../Assets/brand.svg'
-import pure from '../../Assets/brand1.webp'
-import logoBoas from '../../Assets/boasLogo.webp'
-import happyFlute from '../../Assets/brand2.avif'
+import levis from '../../Assets/Brands/brand.svg'
+import pure from '../../Assets/Brands/brand1.webp'
+import logoBoas from '../../Assets/Brands/boasLogo.webp'
+import happyFlute from '../../Assets/Brands/brand2.avif'
 
 const Brands = () => {
     return (

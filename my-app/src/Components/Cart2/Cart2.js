@@ -1,6 +1,6 @@
 import React from 'react'
 import './Cart2.css'
-import cart2 from '../../Assets/cart2.webp'
+import cart2 from '../../Assets/Carts/cart2.webp'
 
 const Cart2 = () => {
     return (

@@ -28,16 +28,16 @@
 }
 
 .item1 {
-    background-image: url('../../Assets/pic1.webp');
+    background-image: url('../../Assets/Featured/pic1.webp');
 }
 .item2 {
-    background-image: url('../../Assets/pic2.webp');
+    background-image: url('../../Assets/Featured/pic2.webp');
 }
 .item3{
-    background-image: url('../../Assets/pic3.webp');
+    background-image: url('../../Assets/Featured/pic3.webp');
 }
 .item4 {
-    background-image: url('../../Assets/pic4.webp');
+    background-image: url('../../Assets/Featured/pic4.webp');
 }
 .itemInner{
     display: flex;

@@ -14,16 +14,16 @@
 }
 
 .item5 {
-    background-image: url('../../Assets/greenPic.webp');
+    background-image: url('../../Assets/LittleOnes/greenPic.webp');
 }
 .item6 {
-    background-image: url('../../Assets/greenPic1.webp');
+    background-image: url('../../Assets/LittleOnes/greenPic1.webp');
 }
 .item7{
-    background-image: url('../../Assets/greenPic2.webp');
+    background-image: url('../../Assets/LittleOnes/greenPic2.webp');
 }
 .item8 {
-    background-image: url('../../Assets/greenPic3.webp');
+    background-image: url('../../Assets/LittleOnes/greenPic3.webp');
 }
 
 @media(max-width: 960px){

@@ -46,6 +46,10 @@
     height: 4vmin;
 }
 
+.signUp:hover{
+    color: green;
+}
+
 
 @media(max-width:900px){
     .newsLetterInner{

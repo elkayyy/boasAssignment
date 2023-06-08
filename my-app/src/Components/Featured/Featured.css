@@ -53,13 +53,11 @@
 .imgContainer {
     display: flex;
     align-items: center;
+    object-fit: cover;
 }
 
 .img1, .img6{
     height: 4vmin;    
-}
-.img2 {
-    height: 7vmin;
 }
 
 .img7 {
@@ -84,6 +82,9 @@
     padding: 2%;
   }
 
+.discountJeansBtn:hover{
+   transform: scale(1.01);
+}
 
 @media(max-width: 960px){
 

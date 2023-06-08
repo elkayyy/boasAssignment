@@ -1,12 +1,12 @@
 import React from 'react'
 import './Featured.css'
-import img1 from '../../Assets/feature1.webp'
-import img2 from '../../Assets/feature2.webp'
-import img3 from '../../Assets/feature3.webp'
-import img4 from '../../Assets/feature4.webp'
-import img5 from '../../Assets/feature5.avif'
-import img6 from '../../Assets/feature6.webp'
-import img7 from '../../Assets/feature7.webp'
+import img1 from '../../Assets/FeaturedPics/feature1.webp'
+import img2 from '../../Assets/FeaturedPics/feature2.webp'
+import img3 from '../../Assets/FeaturedPics/feature3.webp'
+import img4 from '../../Assets/FeaturedPics/feature4.webp'
+import img5 from '../../Assets/FeaturedPics/feature5.avif'
+import img6 from '../../Assets/FeaturedPics/feature6.webp'
+import img7 from '../../Assets/FeaturedPics/feature7.webp'
 
 const Featured = () => {
     return (

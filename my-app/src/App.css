@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    scroll-behavior: smooth;
   }
   
   html,
@@ -9,5 +10,3 @@
     padding: 0%;
   }
 
-  
-  

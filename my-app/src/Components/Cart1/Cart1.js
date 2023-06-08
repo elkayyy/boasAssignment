@@ -1,6 +1,6 @@
 import React from 'react'
 import './Cart1.css'
-import cart1r from '../../Assets/cart1Reversed.webp'
+import cart1r from '../../Assets/Carts/cart1Reversed.webp'
 
 const Cart1 = () => {
     return (
