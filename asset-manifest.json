@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boasAssignment/static/css/main.26e1bf90.css",
-    "main.js": "/boasAssignment/static/js/main.30092269.js",
+    "main.js": "/boasAssignment/static/js/main.19eb3f6e.js",
     "static/media/cart1Reversed.webp": "/boasAssignment/static/media/cart1Reversed.4cfac9a1cfdbac6cbb5c.webp",
     "static/media/cart2.webp": "/boasAssignment/static/media/cart2.f4fe8132d561e792b03b.webp",
     "static/media/feature7.webp": "/boasAssignment/static/media/feature7.c188f272e21ce460b3b4.webp",
@@ -31,10 +31,10 @@
     "static/media/shoppay.avif": "/boasAssignment/static/media/shoppay.46eea8f54d065ec0388a.avif",
     "index.html": "/boasAssignment/index.html",
     "main.26e1bf90.css.map": "/boasAssignment/static/css/main.26e1bf90.css.map",
-    "main.30092269.js.map": "/boasAssignment/static/js/main.30092269.js.map"
+    "main.19eb3f6e.js.map": "/boasAssignment/static/js/main.19eb3f6e.js.map"
   },
   "entrypoints": [
     "static/css/main.26e1bf90.css",
-    "static/js/main.30092269.js"
+    "static/js/main.19eb3f6e.js"
   ]
 }
