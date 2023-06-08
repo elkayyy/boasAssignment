@@ -6,8 +6,8 @@ npm start
 
 Good to go!
 
-Estimate total finish time: 8hours //
-Very basic animations (just for showcase)
-Simple design without functionality on Buttons etc
-Photos staticly fetched (../../Assets/)
-Structure made -> /Components called in .App.js
+Estimate total finish time: 8hours <br />
+Very basic animations (just for showcase)  <br />
+Simple design without functionality on Buttons etc  <br />
+Photos staticly fetched (../../Assets/)  <br />
+Structure made -> /Components called in .App.js  <br />
