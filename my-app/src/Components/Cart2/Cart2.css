@@ -38,6 +38,7 @@
 .cart2InnerText {
     display: flex;
     flex-direction: column;
+    text-align: start;
     align-items: flex-start;
 
 }
